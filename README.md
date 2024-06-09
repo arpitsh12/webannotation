@@ -16,11 +16,10 @@ Web Annotator Extension is a browser extension that allows users to highlight an
 
 ## Usage Instructions
 
-1. Activate the Extension: Click on the Web Annotator icon in your browser toolbar to activate the extension.
-2. Highlight Text: Select the text you want to highlight, right-click, and choose "Highlight" from the context menu.
-3. Add Annotations: After highlighting text, click the "Add Note" button that appears to add your annotations.
-4. Save and Manage Annotations: Click on the extension icon to view, manage, and save your annotations.
-
+1. first choose the text line or select the text that you want to highlight.
+2. Enter the annotation name in the note and click on the save annotation button.
+3. Now,you can search the saved annotations by using annotation name and search annotation button.
+4. we can export the saved annotations by using 'export to pdf' button in pdf in text formate. 
 
 ## Verifying the Extension
 
