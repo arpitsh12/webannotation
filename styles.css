@@ -1,0 +1,72 @@
+.web-annotator-highlight-yellow {
+    background-color: #FFFF00; /* Yellow */
+    cursor: pointer;
+}
+
+#highlight-color{
+    border-radius: 50%;
+    height:40px;
+    width:40px;
+}
+.container{
+    margin:30px;
+    padding: 40px;;
+    background-color: #F8EEEC;
+    width:300px;
+    text-align: center;
+}
+
+
+/* Optional: Basic styling for popup */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding:0;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    height:100vh
+}
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+
+button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color:#55c2da;
+    border-color: #55c2da;
+
+}
+button:hover{
+    background-color: #5783db;
+    border-color:#5783db;
+}
+
+#color-options label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.annotation {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+input[type='text']{
+    width:300px;
+    margin:20px;
+    font-size: 15px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+  
